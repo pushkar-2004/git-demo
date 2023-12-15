@@ -1,2 +1,2 @@
 # git-demo
-learning Git and VCS
+learning Git and VCS!
